@@ -36,6 +36,7 @@
     "@types/jasmine": "~2.8.6",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
+    "@webcomponents/webcomponentsjs": "^2.2.7",
     "codelyzer": "^4.5.0",
     "concat": "^1.0.3",
     "fs-extra": "^7.0.1",
